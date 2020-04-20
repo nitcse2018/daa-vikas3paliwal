@@ -1,5 +1,9 @@
 # daa-vikas3paliwal
 daa-vikas3paliwal created by GitHub Classroom
-DAA Assignment 
+The above field contains assignments of Java and DAA.
+File named AWT_ASSIGNMENT contain code and preview of Resumebuilder gui program.
+
+Submitted by 
 Vikas Paliwal
-181210058
+Roll no. 181210058
+CSE(2nd year)
