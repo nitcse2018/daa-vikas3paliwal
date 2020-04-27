@@ -5,6 +5,8 @@ The above field contains assignments of Java and DAA.
 
 File named AWT_ASSIGNMENT contain code and preview of Resumebuilder gui program.
 
+Folder named graph_algorithm_assignment contain one ppt-consisting of graph algorithms and some example codes.
+
 Submitted by 
 Vikas Paliwal
 Roll no. 181210058
